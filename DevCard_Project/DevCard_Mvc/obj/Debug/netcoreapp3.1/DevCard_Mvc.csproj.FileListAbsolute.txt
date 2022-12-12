@@ -110,3 +110,4 @@ F:\DevCard2\DevCard_Project\DevCard_Mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.Cod
 F:\DevCard2\DevCard_Project\DevCard_Mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\DevCard2\DevCard_Project\DevCard_Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Project.cshtml.g.cs
