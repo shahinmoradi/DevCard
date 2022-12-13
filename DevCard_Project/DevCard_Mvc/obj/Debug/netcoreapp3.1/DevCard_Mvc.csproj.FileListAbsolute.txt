@@ -110,3 +110,6 @@ F:\DevCard2\DevCard_Project\DevCard_Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsof
 F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\DevCard_Mvc.csproj.AssemblyReference.cache
 F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Project.cshtml.g.cs
+F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+F:\DevCard2\DevCard_Project\DevCard_Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
